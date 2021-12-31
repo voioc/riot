@@ -1,4 +1,4 @@
-module github.com/go-ego/riot
+module github.com/voioc/riot
 
 go 1.13
 
